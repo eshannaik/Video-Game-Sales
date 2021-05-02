@@ -15,7 +15,7 @@ ________________________________________________________________________________
     iii)Polynomial Reg
     iv)Decision Tree
     v)Non-Linear SVR
-    vi) Random Forest
+    vi)Random Forest
 ___________________________________________________________________________________________________________________
 #### The project uses r2_score to compute the performance of the models and uses a bar chart to visualize the compare the r2 scores of all the models.
   
