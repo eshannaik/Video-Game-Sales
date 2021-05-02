@@ -9,7 +9,7 @@ ________________________________________________________________________________
 #### It also compares the r2 score for many models.
 
 
-#### The models that i ahve used are - 
+#### The models that i have used are - 
     i)Linear Regression
     ii)Multiple Linear Reg
     iii)Polynomial Reg
